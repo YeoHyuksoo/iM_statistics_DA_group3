@@ -1,0 +1,4 @@
+git branch 브랜치명
+git checkout  브랜치명
+git remote add origin 주소
+git push origin 브랜치명
