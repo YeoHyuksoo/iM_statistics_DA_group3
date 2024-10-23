@@ -1,0 +1,20 @@
+1. 연결
+git remote add origin [https://주소입력] #local과 remote(https) 연결
+
+2. 가져옴 => 동일한 상태 만듦
+git pull origin master #기준인 local에서 가져옴 
+
+
+파일을 보낼때 히스토리를 비굫서 없으면 보냄. 제목은 같은데 내용이 다르면 내용 수정을 해줌. 그리고 히스토리에 기록됨. 
+
+hello.html 만들어서 보내고(add) commit해서 보내면(push) local에서 만든 hello.html이 remote에 만들어짐
+
+=================
+git add []
+git commit -m []
+git push origin [master]
+=====================
+
+
+
+
