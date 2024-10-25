@@ -14,7 +14,7 @@
 	<a href="https://github.com/YeoHyuksoo"><img src="https://avatars.githubusercontent.com/u/28529198?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 👑여👑혁👑수👑 </b></sub></a><br />
 	</td>
 	<td align="center">
-	      <a href="https://github.com/nowkk"><img src="https://avatars.githubusercontent.com/u/185897371?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 권순걸 </b></sub></a><br />
+	      <a href="https://github.com/nowkk"><img src="https://avatars.githubusercontent.com/u/185897371?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 🔥권순걸🔥 </b></sub></a><br />
       </td>
 	<td align="center">
 		<a href="https://github.com/sueEDEN"><img src="https://avatars.githubusercontent.com/u/152787408?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 🐥이수연🐥 </b></sub></a><br />
