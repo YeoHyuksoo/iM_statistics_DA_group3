@@ -20,10 +20,10 @@
 		<a href="https://github.com/sueEDEN"><img src="https://avatars.githubusercontent.com/u/152787408?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 🐥이수연🐥 </b></sub></a><br />
 	</td>
 	<td align="center">
-		<a href="https://github.com/xinkkyung"><img src="https://avatars.githubusercontent.com/u/185897412?s=64&v=4" width="100px;" alt=""/><br /><sub><b> ♨️신민경♨️ </b></sub></a><br />
+		<a href="https://github.com/xinkkyung"><img src="https://avatars.githubusercontent.com/u/185897412?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 🌻신민경🌻 </b></sub></a><br />
 	</td>
 	<td align="center">
-		<a href="https://github.com/JUNG0031"><img src="https://avatars.githubusercontent.com/u/185897591?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 🏆이정우🏆 </b></sub></a><br />
+		<a href="https://github.com/JUNG0031"><img src="https://avatars.githubusercontent.com/u/185897591?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 🌸이정우🌸 </b></sub></a><br />
 	</td>
     </tr>
   </tbody>
