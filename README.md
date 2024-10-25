@@ -10,6 +10,9 @@
   <table border-spacing = "10px">
   <tbody>
     <tr>
+	    	<td align="center">
+	<a href="https://github.com/YeoHyuksoo"><img src="https://avatars.githubusercontent.com/u/28529198?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 여혁수 </b></sub></a><br />
+	</td>
 	<td align="center">
 	      <a href="https://github.com/nowkk"><img src="https://avatars.githubusercontent.com/u/185897371?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 권순걸 </b></sub></a><br />
       </td>
