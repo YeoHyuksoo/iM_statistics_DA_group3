@@ -11,7 +11,7 @@
   <tbody>
     <tr>
 	    	<td align="center">
-	<a href="https://github.com/YeoHyuksoo"><img src="https://avatars.githubusercontent.com/u/28529198?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 🏆여혁수🏆 </b></sub></a><br />
+	<a href="https://github.com/YeoHyuksoo"><img src="https://avatars.githubusercontent.com/u/28529198?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 👑여👑혁👑수👑 </b></sub></a><br />
 	</td>
 	<td align="center">
 	      <a href="https://github.com/nowkk"><img src="https://avatars.githubusercontent.com/u/185897371?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 권순걸 </b></sub></a><br />
@@ -23,7 +23,7 @@
 		<a href="https://github.com/xinkkyung"><img src="https://avatars.githubusercontent.com/u/185897412?s=64&v=4" width="100px;" alt=""/><br /><sub><b> ♨️신민경♨️ </b></sub></a><br />
 	</td>
 	<td align="center">
-		<a href="https://github.com/JUNG0031"><img src="https://avatars.githubusercontent.com/u/185897591?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 💯이정우💯 </b></sub></a><br />
+		<a href="https://github.com/JUNG0031"><img src="https://avatars.githubusercontent.com/u/185897591?s=64&v=4" width="100px;" alt=""/><br /><sub><b> 🏆이정우🏆 </b></sub></a><br />
 	</td>
     </tr>
   </tbody>
